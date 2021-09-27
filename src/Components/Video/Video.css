@@ -1,0 +1,20 @@
+#AppBar-1 {
+  width: 100%;
+  align-items: center;
+}
+
+#AppBar-2 {
+  margin-left: 250px;
+  width: 1000px;
+  align-items: center;
+}
+
+#AppBar-3 {
+  margin-left: 250px;
+  width: 1000px;
+  align-items: center;
+}
+
+#videoCanvas video {
+  object-fit: cover;
+}

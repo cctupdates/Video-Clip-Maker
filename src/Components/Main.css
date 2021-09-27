@@ -1,0 +1,16 @@
+#app-bar {
+    margin-left: 250px;
+    width: 1000px;
+    align-items: center;
+}
+
+.canvas {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+}
+.video {
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
